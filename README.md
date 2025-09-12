@@ -1,10 +1,10 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aakashsharma7&label=Profile%20views&color=0e75b6&style=flat" alt="aakashsharma7" /> </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aakash+Sharma!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aakash+Sharma!;+I'm+Software+Engineer!;" />
 </h1>
 
-<h3 align="center">Full Stack developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <br/>
 
@@ -24,10 +24,10 @@
   <a href="mailto:aakashsharma.ghd@gamil.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/aakash-sharma-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://porto-io.vercel.app/" target="_blank">
+  <a href="https://skyframe-io.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,nodejs,express,mongo,postgres" width={100}/><br>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,nodejs,mongo,postgres,next,java,redis,aws,supabase,git,docker,python" width={100}/><br>
 </div>
 
 <br/>

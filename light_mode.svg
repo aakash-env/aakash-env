@@ -1,44 +1,83 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="971" height="476" viewBox="0 0 971 476" role="img" aria-label="ASCII GitHub profile card for aakash-env">
-  <rect x="0.5" y="0.5" width="970" height="475" rx="8" fill="#ffffff" stroke="#d0d7de"/>
-  <text x="28" y="134.20000000000002" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">::::::</text>
-  <text x="28" y="143.8" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">  :::::::::::..:</text>
-  <text x="28" y="153.4" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">    ::::::j:jjjjjjj__...:</text>
-  <text x="28" y="163" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">        ::jj:j:jjjjjjjjjjjjjjjjjj_____..</text>
-  <text x="28" y="172.60000000000002" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">         :  :::j:j:::::jjjjjjjjjjjjjjjjjjjjjj__</text>
-  <text x="28" y="182.2" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">         ::  : :':j:::::j:jjjjjjjjjjjjjjjjxxxxxxu___.</text>
-  <text x="28" y="191.8" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">             :    ::::::jjjjjjjjjjjjjjjjjjjjxxxxooxooooxxxguuuuuuuxj</text>
-  <text x="28" y="201.4" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                         :'!jjjjxjjjjjjjjjjjjxxxxxxooooooooxxxxxxxx`</text>
-  <text x="28" y="211" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                              '!!jxxxxxxxxjxxxxxxxxxxxxxxxxxxxxxxx\</text>
-  <text x="28" y="220.60000000000002" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                   :-^=xxxxxxxxxxxxxoooxxxxxxxoo\\</text>
-  <text x="28" y="230.2" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                         '^-{oxooooooooooooooow\</text>
-  <text x="28" y="239.8" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                      :                        '---*oxoooooo\\</text>
-  <text x="28" y="249.4" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                   ::: :: :                             '''</text>
-  <text x="28" y="259" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">               :::::::j__.::::::</text>
-  <text x="28" y="268.6" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">         ...  :::::jjjjjjxxxjjj;__.</text>
-  <text x="28" y="278.2" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">        |xog/:::::jjjjjjjjjxxxxxxoooog--_</text>
-  <text x="28" y="287.8" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">        |oaq//:::jjjjj:jjjxxxxxxxxxxoo@@@@gg-.</text>
-  <text x="28" y="297.4" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">        :qoa$g/jjjjjjjjjjxoxxxxxxx`  '--/@@@@@|'</text>
-  <text x="28" y="307" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">         //ogjooggguuuggxpwoxxxxxr        /@@@|.</text>
-  <text x="28" y="316.6" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">           //wooxx=*{n{xooo\\---`          //@@|</text>
-  <text x="28" y="326.2" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">               &quot;-*woooooef\                 //@@/</text>
-  <text x="28" y="335.8" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                              /@@|</text>
-  <text x="28" y="345.4" fill="#24292f" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                               !:</text>
-  <text x="386.4" y="43" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#d0d7de">─</tspan><tspan fill="#0969da"> aakash-env@github </tspan><tspan fill="#d0d7de">──────────────────────────────────────</tspan></text>
-  <text x="386.4" y="63" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Uptime: </tspan><tspan fill="#8c959f">....................</tspan><tspan fill="#24292f"> 4 years, 9 months, 29 days</tspan></text>
-  <text x="386.4" y="83" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Location: </tspan><tspan fill="#8c959f">...................................</tspan><tspan fill="#24292f"> New Delhi</tspan></text>
-  <text x="386.4" y="103" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Company: </tspan><tspan fill="#8c959f">..............</tspan><tspan fill="#24292f"> Adaan Digital Solutions Pvt Ltd</tspan></text>
-  <text x="386.4" y="123" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Languages: </tspan><tspan fill="#8c959f">.....</tspan><tspan fill="#24292f"> TypeScript 48%, JavaScript 33%, CSS 5%</tspan></text>
-  <text x="386.4" y="163" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#d0d7de">─</tspan><tspan fill="#0969da"> Contact </tspan><tspan fill="#d0d7de">────────────────────────────────────────────────</tspan></text>
-  <text x="386.4" y="183" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Website: </tspan><tspan fill="#8c959f">..............</tspan><tspan fill="#24292f"> https://aakashisdev.vercel.app/</tspan></text>
-  <text x="386.4" y="203" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Twitter: </tspan><tspan fill="#8c959f">..................................</tspan><tspan fill="#24292f"> @aakash_env</tspan></text>
-  <text x="386.4" y="223" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. GitHub: </tspan><tspan fill="#8c959f">.........................</tspan><tspan fill="#24292f"> github.com/aakash-env</tspan></text>
-  <text x="386.4" y="263" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#d0d7de">─</tspan><tspan fill="#0969da"> GitHub Stats </tspan><tspan fill="#d0d7de">───────────────────────────────────────────</tspan></text>
-  <text x="386.4" y="283" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Repos: </tspan><tspan fill="#8c959f">.............</tspan><tspan fill="#0550ae"> 109</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. Stars: </tspan><tspan fill="#8c959f">..............</tspan><tspan fill="#0550ae"> 13</tspan></text>
-  <text x="386.4" y="303" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Forks: </tspan><tspan fill="#8c959f">...............</tspan><tspan fill="#0550ae"> 5</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. Followers: </tspan><tspan fill="#8c959f">..........</tspan><tspan fill="#0550ae"> 36</tspan></text>
-  <text x="386.4" y="323" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Commits: </tspan><tspan fill="#8c959f">.........</tspan><tspan fill="#0550ae"> 1,311</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. Contributed: </tspan><tspan fill="#8c959f">.........</tspan><tspan fill="#0550ae"> 4</tspan></text>
-  <text x="386.4" y="343" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. PRs: </tspan><tspan fill="#8c959f">................</tspan><tspan fill="#0550ae"> 19</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. Issues: </tspan><tspan fill="#8c959f">..............</tspan><tspan fill="#0550ae"> 4</tspan></text>
-  <text x="386.4" y="363" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Top repo: </tspan><tspan fill="#8c959f">................</tspan><tspan fill="#24292f"> Automated-Log-Analyzer (1 ★)</tspan></text>
-  <text x="386.4" y="403" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#d0d7de">─</tspan><tspan fill="#0969da"> Last 12 Months </tspan><tspan fill="#d0d7de">─────────────────────────────────────────</tspan></text>
-  <text x="386.4" y="423" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#953800">. Contributions: </tspan><tspan fill="#8c959f">.....</tspan><tspan fill="#0550ae"> 283</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. Reviews: </tspan><tspan fill="#8c959f">.............</tspan><tspan fill="#0550ae"> 0</tspan></text>
-  <text x="386.4" y="443" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#2da44e">    ▂▆▆            ▄▅ ▂   ▆▄ ▂ ▆       ▂▅    ▂ ▇▂▂▂▃█ </tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="100%" height="100%" font-family="ConsolasFallback,Consolas,monospace" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+.art {fill: #0969da;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1200" height="640" fill="#f6f8fa" rx="15"/>
+<!-- Left Column: Art starts at x=25 -->
+<text x="25" y="50" class="art">
+<tspan x="25" y="50">                     b                </tspan>
+<tspan x="25" y="70">              k*+mk*+mk,+mk           </tspan>
+<tspan x="25" y="90">           Wmk*%mwNbmk@+m  &#x27;mk        </tspan>
+<tspan x="25" y="110">         m+mb#g@WkMpk*.&#x27;,*+,kk+m      </tspan>
+<tspan x="25" y="130">       g*+kMp%mwNb#g@WkM*&#x27;mw*b#g@     </tspan>
+<tspan x="25" y="150">      %mwNb#g@WkMp%mwNb#g@k*+p%mwN    </tspan>
+<tspan x="25" y="170">     g@WkMp%mwNb#g@WkMp%mwNb#g@WkMp   </tspan>
+<tspan x="25" y="190">    %mwNb#g@WkMp%mwNb#g@WkMp%mwNb#g@  </tspan>
+<tspan x="25" y="210">     WkMp%mwN+mk*WkMp%mwNb#g@WkMp%mw  </tspan>
+<tspan x="25" y="230">     mb@, ~,               *Mmb@Mmb@  </tspan>
+<tspan x="25" y="250">     MNW     ~==m=~     ~=m==~  Wmgp  </tspan>
+<tspan x="25" y="270">      Wm    .(###).     .(###).   gp  </tspan>
+<tspan x="25" y="290">      mg    &#x27;(@#@)&#x27;     &#x27;(@#@)&#x27;    p  </tspan>
+<tspan x="25" y="310">                                      </tspan>
+<tspan x="25" y="330">                                      </tspan>
+<tspan x="25" y="350">                  ||                  </tspan>
+<tspan x="25" y="370">                 .-..-                </tspan>
+<tspan x="25" y="390">              .==@@@@@@==.            </tspan>
+<tspan x="25" y="410">               ~%MM@@MM%~             </tspan>
+<tspan x="25" y="430">         |                     |      </tspan>
+<tspan x="25" y="450">         |\m*               *m/|      </tspan>
+<tspan x="25" y="470">           *b@m           mb@M*       </tspan>
+<tspan x="25" y="490">             \Wp#@@@@@@#pW/           </tspan>
+<tspan x="25" y="510">       Ng       mk%Ngk+      \%       </tspan>
+<tspan x="25" y="530">     Mmb@Mmb@Mmb///\\\\b@Mmb@Mmb      </tspan>
+<tspan x="25" y="550">gk%Ngk%Ngk% gk%N///\\\\Ngk%Ngk%Ngk%N  </tspan>
+<tspan x="25" y="570">#Wpw#Wpw#Wpw Wpw///\\\\w#Wpw#Wpw#Wpw#W</tspan>
+<tspan x="25" y="590">b@Mmb@Mmb@Mm  Mm //\\\\mb@M b@Mmb@Mmb@</tspan>
+</text>
+<!-- Right Column: Info starts at x=430, comfortably fitting all 74 chars inside 1200px -->
+<text x="430" y="30" fill="#24292f">
+<tspan x="430" y="30"><tspan>Aakash Sharma</tspan> -——————————————————————————————————————————————————————————–</tspan>
+<tspan x="430" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">Windows 11, Linux, Android</tspan></tspan>
+<tspan x="430" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">4 years, 9 months, 29 days</tspan></tspan>
+<tspan x="430" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">Adaan Digital Solutions Pvt Ltd</tspan></tspan>
+<tspan x="430" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">Full Stack Engineer</tspan></tspan>
+<tspan x="430" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ...................................................... </tspan><tspan class="value">VS Code, Vim</tspan></tspan>
+<tspan x="430" y="150"><tspan class="cc">. </tspan></tspan>
+<tspan x="430" y="170"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">TypeScript, Python, JavaScript, Rust, SQL</tspan></tspan>
+<tspan x="430" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Next.js, React, Node.js, Express.js, FastAPI</tspan></tspan>
+<tspan x="430" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">LLMs, RAG, LangChain, PyTorch, TensorFlow</tspan></tspan>
+<tspan x="430" y="230"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Database</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">PostgreSQL, MongoDB, Redis, Vector Databases</tspan></tspan>
+<tspan x="430" y="250"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">DevOps</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Docker, AWS, Vercel, GitHub, CI/CD</tspan></tspan>
+<tspan x="430" y="270"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">English, Hindi</tspan></tspan>
+<tspan x="430" y="290"><tspan class="cc">. </tspan></tspan>
+<tspan x="430" y="310"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">AI/LLMs, DevOps, Open Source</tspan></tspan>
+<tspan x="430" y="330"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Custom PC, Mechanical Keyboards, Homelab</tspan></tspan>
+<tspan x="430" y="350"><tspan class="cc">. </tspan></tspan>
+<tspan x="430" y="370"><tspan>- Contact</tspan> -——————————————————————————————————————————————————————————————–</tspan>
+<tspan x="430" y="390"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">aakashsharma.ghd@gmail.com</tspan></tspan>
+<tspan x="430" y="410"><tspan class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">aakashisdev.vercel.app</tspan></tspan>
+<tspan x="430" y="430"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">aakash-sharma-dev</tspan></tspan>
+<tspan x="430" y="450"><tspan class="cc">. </tspan><tspan class="key">Twitter</tspan>:<tspan class="cc"> ................................................... </tspan><tspan class="value">@aakash_env</tspan></tspan>
+<tspan x="430" y="470"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ..................................................... </tspan><tspan class="value">aakash-env</tspan></tspan>
+<tspan x="430" y="490"><tspan class="cc">. </tspan></tspan>
+<tspan x="430" y="510"><tspan>- GitHub Stats</tspan> -—————————————————————————————————————————————————————————–</tspan>
+<tspan x="430" y="530"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">109</tspan> <tspan class="cc">{</tspan><tspan class="key">Contributed</tspan>: <tspan class="value">133</tspan><tspan class="cc">}</tspan> <tspan class="cc">|</tspan> <tspan class="key">Stars</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">83</tspan></tspan>
+<tspan x="430" y="550"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">2,116</tspan> <tspan class="cc">|</tspan> <tspan class="key">Followers</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">40</tspan></tspan>
+<tspan x="430" y="570"><tspan class="cc">. </tspan><tspan class="key">Pull Requests</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">2</tspan> <tspan class="cc">|</tspan> <tspan class="key">Issues</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="430" y="590"><tspan class="cc">. </tspan></tspan>
+<tspan x="430" y="610"><tspan class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="addColor">Building</tspan><tspan class="cc"> • </tspan><tspan class="value">Learning</tspan><tspan class="cc"> • </tspan><tspan class="key">Shipping</tspan></tspan>
+</text>
 </svg>

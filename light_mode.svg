@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="100%" height="100%" font-family="ConsolasFallback,Consolas,monospace" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1125 640" width="100%" height="100%" font-family="ConsolasFallback,Consolas,monospace" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,35 +15,35 @@ size-adjust: 109%;
 .art {fill: #0969da;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1200" height="640" fill="#f6f8fa" rx="15"/>
+<rect width="1125" height="640" fill="#f6f8fa" rx="15"/>
 <!-- Left Column: Art starts at x=25 -->
 <text x="25" y="50" class="art">
 <tspan x="25" y="50">              g@M%@%%@N%Nw,,          </tspan>
 <tspan x="25" y="70">          ,M*`||*%gNM=]mM%g||%N,      </tspan>
 <tspan x="25" y="90">        p!`` &#x27;! |```&#x27;&#x27;&#x27;|||jhlj%w      </tspan>
-<tspan x="25" y="110">      ,@L `, ,,      &#x27;&#x27;!`|j%M]%M      </tspan>
-<tspan x="25" y="130">     ]j`` !kwwMMMM@MwMM@@@M|!!pmmw    </tspan>
-<tspan x="25" y="150">    k@@%%MwmM@@@@@@@@@@MMk@%%w||||    </tspan>
-<tspan x="25" y="170">   wM@MMMww%@@@@@@@@@@@@@%%@@@M       </tspan>
-<tspan x="25" y="190">    m@MjMM;&#x27;&#x27;,;|!|ppkjpM@@%mM@%       </tspan>
-<tspan x="25" y="210">    @@j`;,            &#x27;!j!jwmMM       </tspan>
-<tspan x="25" y="230">    @M, ..,!|j,.   &#x27;jkkj;  pww        </tspan>
-<tspan x="25" y="250">     M.  &#x27;&#x27;jpp|.  |wwpk!!. |          </tspan>
-<tspan x="25" y="270">    `;.  &#x27;&#x27;;!;.   &#x27;jj||!;. &#x27;;|        </tspan>
-<tspan x="25" y="290">   ,  `              `                </tspan>
-<tspan x="25" y="310">   . `                     .          </tspan>
-<tspan x="25" y="330">               |,!m&#x27;       `          </tspan>
-<tspan x="25" y="350">    !       ``;kmwwj,,`     .         </tspan>
-<tspan x="25" y="370">     &#x27;.` ` ;m!.`.&#x27;,|mw`...`           </tspan>
-<tspan x="25" y="390">       ;.. `   `&#x27;&#x27;&#x27;.&#x27;,.;,|            </tspan>
-<tspan x="25" y="410">        !; `    ..``,;,|!             </tspan>
-<tspan x="25" y="430">        `|kw,&#x27;    .!mmk;,             </tspan>
-<tspan x="25" y="450">          ,w@@Mwpm%@%k,               </tspan>
-<tspan x="25" y="470">     MM     .,|jppj;&#x27;. ` ;            </tspan>
-<tspan x="25" y="490">   %mM@   .      ``````! `mw          </tspan>
-<tspan x="25" y="510"> @MwmwmMM@.   ,`    `````j` .%pkpm%   </tspan>
-<tspan x="25" y="530">wwM@MmMMM@p    .&#x27;`   ``.!&#x27;  &#x27;%wwppwwwm</tspan>
-<tspan x="25" y="550">M%@MmmmM%%@      ```   ,&#x27;   &#x27;@mwwwwMmw</tspan>
+<tspan x="25" y="110">       `;|p%%M%mpm%@%|,!!wwk||||      </tspan>
+<tspan x="25" y="130">      ,w@@@@MM@@@@@@@@@@wk@@M|        </tspan>
+<tspan x="25" y="150">     !w@@@@w@@@@@@@@@@@@@@M@@@        </tspan>
+<tspan x="25" y="170">     p@%k@k&#x27;&#x27;,!||pMwpm@@@%@@M         </tspan>
+<tspan x="25" y="190">     w@| ;`               .!|;m%m|    </tspan>
+<tspan x="25" y="210">     |M. `,|j&#x27;     `|pk!` ;w`         </tspan>
+<tspan x="25" y="230">     k   .,pk!    `wmwk!; `m          </tspan>
+<tspan x="25" y="250">          &#x27;`       .;,,`              </tspan>
+<tspan x="25" y="270">    ,  `               `              </tspan>
+<tspan x="25" y="290">    . `                      .        </tspan>
+<tspan x="25" y="310">                &#x27;mw%p                 </tspan>
+<tspan x="25" y="330">               w|..&#x27;,!mw              </tspan>
+<tspan x="25" y="350">       .        ` ````,&#x27;.,            </tspan>
+<tspan x="25" y="370">       ;,         `` ``&#x27;&#x27;;;           </tspan>
+<tspan x="25" y="390">        `|M|.         ,M%j.           </tspan>
+<tspan x="25" y="410">    w     ;@@MM@@@|.                  </tspan>
+<tspan x="25" y="430">    wM       .&#x27;!;                     </tspan>
+<tspan x="25" y="450">    |ppM%@   `     &#x27;     ww|          </tspan>
+<tspan x="25" y="470">  |kwM@MM@@@`   .     .| MMpkwwk      </tspan>
+<tspan x="25" y="490">  wmM%@@M%%@@k   `   `! %%mwwMMmpkj   </tspan>
+<tspan x="25" y="510">  %@@@@@@M@@@@@       ` %MmwM%%Mmp    </tspan>
+<tspan x="25" y="530">  %@@@@@@@@@@@@@        %%%%@%M%MM    </tspan>
+<tspan x="25" y="550">  %%%%%@@@@@@@@|        @%%@%MMMM%    </tspan>
 </text>
 <!-- Right Column: Info starts at x=430, comfortably fitting all 74 chars inside 1200px -->
 <text x="430" y="30" fill="#24292f">

@@ -18,34 +18,32 @@ text, tspan {white-space: pre;}
 <rect width="1200" height="640" fill="#161b22" rx="15"/>
 <!-- Left Column: Art starts at x=25 -->
 <text x="25" y="50" class="art">
-<tspan x="25" y="50">                     b                </tspan>
-<tspan x="25" y="70">              k*+mk*+mk,+mk           </tspan>
-<tspan x="25" y="90">           Wmk*%mwNbmk@+m  &#x27;mk        </tspan>
-<tspan x="25" y="110">         m+mb#g@WkMpk*.&#x27;,*+,kk+m      </tspan>
-<tspan x="25" y="130">       g*+kMp%mwNb#g@WkM*&#x27;mw*b#g@     </tspan>
-<tspan x="25" y="150">      %mwNb#g@WkMp%mwNb#g@k*+p%mwN    </tspan>
-<tspan x="25" y="170">     g@WkMp%mwNb#g@WkMp%mwNb#g@WkMp   </tspan>
-<tspan x="25" y="190">    %mwNb#g@WkMp%mwNb#g@WkMp%mwNb#g@  </tspan>
-<tspan x="25" y="210">     WkMp%mwN+mk*WkMp%mwNb#g@WkMp%mw  </tspan>
-<tspan x="25" y="230">     mb@, ~,               *Mmb@Mmb@  </tspan>
-<tspan x="25" y="250">     MNW     ~==m=~     ~=m==~  Wmgp  </tspan>
-<tspan x="25" y="270">      Wm    .(###).     .(###).   gp  </tspan>
-<tspan x="25" y="290">      mg    &#x27;(@#@)&#x27;     &#x27;(@#@)&#x27;    p  </tspan>
-<tspan x="25" y="310">                                      </tspan>
-<tspan x="25" y="330">                                      </tspan>
-<tspan x="25" y="350">                  ||                  </tspan>
-<tspan x="25" y="370">                 .-..-                </tspan>
-<tspan x="25" y="390">              .==@@@@@@==.            </tspan>
-<tspan x="25" y="410">               ~%MM@@MM%~             </tspan>
-<tspan x="25" y="430">         |                     |      </tspan>
-<tspan x="25" y="450">         |\m*               *m/|      </tspan>
-<tspan x="25" y="470">           *b@m           mb@M*       </tspan>
-<tspan x="25" y="490">             \Wp#@@@@@@#pW/           </tspan>
-<tspan x="25" y="510">       Ng       mk%Ngk+      \%       </tspan>
-<tspan x="25" y="530">     Mmb@Mmb@Mmb///\\\\b@Mmb@Mmb      </tspan>
-<tspan x="25" y="550">gk%Ngk%Ngk% gk%N///\\\\Ngk%Ngk%Ngk%N  </tspan>
-<tspan x="25" y="570">#Wpw#Wpw#Wpw Wpw///\\\\w#Wpw#Wpw#Wpw#W</tspan>
-<tspan x="25" y="590">b@Mmb@Mmb@Mm  Mm //\\\\mb@M b@Mmb@Mmb@</tspan>
+<tspan x="25" y="50">              g@M%@%%@N%Nw,,          </tspan>
+<tspan x="25" y="70">          ,M*`||*%gNM=]mM%g||%N,      </tspan>
+<tspan x="25" y="90">        p!`` &#x27;! |```&#x27;&#x27;&#x27;|||jhlj%w      </tspan>
+<tspan x="25" y="110">      ,@L `, ,,      &#x27;&#x27;!`|j%M]%M      </tspan>
+<tspan x="25" y="130">     ]j`` !kwwMMMM@MwMM@@@M|!!pmmw    </tspan>
+<tspan x="25" y="150">    k@@%%MwmM@@@@@@@@@@MMk@%%w||||    </tspan>
+<tspan x="25" y="170">   wM@MMMww%@@@@@@@@@@@@@%%@@@M       </tspan>
+<tspan x="25" y="190">    m@MjMM;&#x27;&#x27;,;|!|ppkjpM@@%mM@%       </tspan>
+<tspan x="25" y="210">    @@j`;,            &#x27;!j!jwmMM       </tspan>
+<tspan x="25" y="230">    @M, ..,!|j,.   &#x27;jkkj;  pww        </tspan>
+<tspan x="25" y="250">     M.  &#x27;&#x27;jpp|.  |wwpk!!. |          </tspan>
+<tspan x="25" y="270">    `;.  &#x27;&#x27;;!;.   &#x27;jj||!;. &#x27;;|        </tspan>
+<tspan x="25" y="290">   ,  `              `                </tspan>
+<tspan x="25" y="310">   . `                     .          </tspan>
+<tspan x="25" y="330">               |,!m&#x27;       `          </tspan>
+<tspan x="25" y="350">    !       ``;kmwwj,,`     .         </tspan>
+<tspan x="25" y="370">     &#x27;.` ` ;m!.`.&#x27;,|mw`...`           </tspan>
+<tspan x="25" y="390">       ;.. `   `&#x27;&#x27;&#x27;.&#x27;,.;,|            </tspan>
+<tspan x="25" y="410">        !; `    ..``,;,|!             </tspan>
+<tspan x="25" y="430">        `|kw,&#x27;    .!mmk;,             </tspan>
+<tspan x="25" y="450">          ,w@@Mwpm%@%k,               </tspan>
+<tspan x="25" y="470">     MM     .,|jppj;&#x27;. ` ;            </tspan>
+<tspan x="25" y="490">   %mM@   .      ``````! `mw          </tspan>
+<tspan x="25" y="510"> @MwmwmMM@.   ,`    `````j` .%pkpm%   </tspan>
+<tspan x="25" y="530">wwM@MmMMM@p    .&#x27;`   ``.!&#x27;  &#x27;%wwppwwwm</tspan>
+<tspan x="25" y="550">M%@MmmmM%%@      ```   ,&#x27;   &#x27;@mwwwwMmw</tspan>
 </text>
 <!-- Right Column: Info starts at x=430, comfortably fitting all 74 chars inside 1200px -->
 <text x="430" y="30" fill="#c9d1d9">

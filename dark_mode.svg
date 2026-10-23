@@ -14,7 +14,7 @@ size-adjust: 109%;
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1120" height="640" fill="#1e1e2e" rx="15"/>
+<rect width="1120" height="640" fill="#161B22" rx="15"/>
 <text x="38" y="30" fill="#c9d1d9">
 <tspan x="38" y="30"><tspan>Aakash Sharma</tspan> -—————————————————————————————————————————————————————————————————————————————————————————————</tspan>
 <tspan x="38" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................................................................... </tspan><tspan class="value">Windows 11, Linux, Android</tspan></tspan>

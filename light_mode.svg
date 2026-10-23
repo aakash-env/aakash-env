@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 500" width="100%" height="100%" font-family="ConsolasFallback,Consolas,monospace" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 560" width="100%" height="100%" font-family="ConsolasFallback,Consolas,monospace" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,7 +15,7 @@ size-adjust: 109%;
 .art {fill: #0969da;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1120" height="500" fill="#f6f8fa" rx="15"/>
+<rect width="1120" height="560" fill="#f6f8fa" rx="15"/>
 <text x="38" y="30" fill="#24292f">
 <tspan x="38" y="30"><tspan>Aakash Sharma</tspan> -—————————————————————————————————————————————————————————————————————————————————————————————</tspan>
 <tspan x="38" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................................................................... </tspan><tspan class="value">Windows 11, Linux, Android</tspan></tspan>
@@ -34,11 +34,14 @@ text, tspan {white-space: pre;}
 <tspan x="38" y="310"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ........................................................... </tspan><tspan class="value">AI/LLMs, DevOps, Open Source</tspan></tspan>
 <tspan x="38" y="330"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............................................... </tspan><tspan class="value">Custom PC, Mechanical Keyboards, Homelab</tspan></tspan>
 <tspan x="38" y="350"><tspan class="cc">. </tspan></tspan>
-<tspan x="38" y="370"><tspan>- GitHub Stats</tspan> -————————————————————————————————————————————————————————————————————————————————————————————</tspan>
-<tspan x="38" y="390"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">109</tspan> <tspan class="cc">{</tspan><tspan class="key">Contributed</tspan>: <tspan class="value">133</tspan><tspan class="cc">}</tspan> <tspan class="cc">|</tspan> <tspan class="key">Stars</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">83</tspan></tspan>
-<tspan x="38" y="410"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">2,116</tspan> <tspan class="cc">|</tspan> <tspan class="key">Followers</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">40</tspan></tspan>
-<tspan x="38" y="430"><tspan class="cc">. </tspan><tspan class="key">Pull Requests</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">2</tspan> <tspan class="cc">|</tspan> <tspan class="key">Issues</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">0</tspan></tspan>
-<tspan x="38" y="450"><tspan class="cc">. </tspan></tspan>
-<tspan x="38" y="470"><tspan class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ................................................................... </tspan><tspan class="addColor">Building</tspan><tspan class="cc"> • </tspan><tspan class="value">Learning</tspan><tspan class="cc"> • </tspan><tspan class="key">Shipping</tspan></tspan>
+<tspan x="38" y="370"><tspan>- Contact</tspan> -—————————————————————————————————————————————————————————————————————————————————————————————————</tspan>
+<tspan x="38" y="390"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............................................................... </tspan><tspan class="value">aakashsharma.ghd@gmail.com</tspan></tspan>
+<tspan x="38" y="410"><tspan class="cc">. </tspan></tspan>
+<tspan x="38" y="430"><tspan>- GitHub Stats</tspan> -————————————————————————————————————————————————————————————————————————————————————————————</tspan>
+<tspan x="38" y="450"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">109</tspan> <tspan class="cc">{</tspan><tspan class="key">Contributed</tspan>: <tspan class="value">133</tspan><tspan class="cc">}</tspan> <tspan class="cc">|</tspan> <tspan class="key">Stars</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">83</tspan></tspan>
+<tspan x="38" y="470"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">2,116</tspan> <tspan class="cc">|</tspan> <tspan class="key">Followers</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">40</tspan></tspan>
+<tspan x="38" y="490"><tspan class="cc">. </tspan><tspan class="key">Pull Requests</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">2</tspan> <tspan class="cc">|</tspan> <tspan class="key">Issues</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="38" y="510"><tspan class="cc">. </tspan></tspan>
+<tspan x="38" y="530"><tspan class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ................................................................... </tspan><tspan class="addColor">Building</tspan><tspan class="cc"> • </tspan><tspan class="value">Learning</tspan><tspan class="cc"> • </tspan><tspan class="key">Shipping</tspan></tspan>
 </text>
 </svg>

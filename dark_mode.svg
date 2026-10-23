@@ -18,31 +18,31 @@ text, tspan {white-space: pre;}
 <rect width="1200" height="640" fill="#161b22" rx="15"/>
 <!-- Left Column: Art starts at x=25 -->
 <text x="25" y="50" class="art">
-<tspan x="25" y="50">                                      </tspan>
-<tspan x="25" y="70">  ___                                 </tspan>
-<tspan x="25" y="90"> /   \--__                            </tspan>
-<tspan x="25" y="110">/         \---___                     </tspan>
-<tspan x="25" y="130">|               \---___               </tspan>
-<tspan x="25" y="150"> \                     ---.           </tspan>
-<tspan x="25" y="170">  |. . . . . . . . . . .  \___        </tspan>
-<tspan x="25" y="190">  /~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\   </tspan>
-<tspan x="25" y="210"> /  &#x27;-.                       .-&#x27; \   </tspan>
-<tspan x="25" y="230">/      \   .-----------,     /     \  </tspan>
-<tspan x="25" y="250">|   ,   \ /  *       *  \   /  ,   |  </tspan>
-<tspan x="25" y="270">|  ( )   |  [o=====o]   |  ( )   |    </tspan>
-<tspan x="25" y="290">|   `   /|  [~     ~]   |\   `   |    </tspan>
-<tspan x="25" y="310">|       / |  [o=====o]  | \       |   </tspan>
-<tspan x="25" y="330"> \     /   \  *     *  /   \     /    </tspan>
-<tspan x="25" y="350">  \___/ &#x27;-.  \-------/  .-&#x27; \___/     </tspan>
-<tspan x="25" y="370">  /~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\   </tspan>
-<tspan x="25" y="390"> |  . . . . . . . . . . . . . .  |    </tspan>
-<tspan x="25" y="410">  |,,|,|,,,,,,,,,,,,|,,,|,|,,|  |     </tspan>
-<tspan x="25" y="430">                                      </tspan>
-<tspan x="25" y="450">                                      </tspan>
-<tspan x="25" y="470">                                      </tspan>
-<tspan x="25" y="490">                                      </tspan>
-<tspan x="25" y="510">                                      </tspan>
-<tspan x="25" y="530">                                      </tspan>
+<tspan x="25" y="50">          (tttt1;:    ..              </tspan>
+<tspan x="25" y="70">!i!(/(uYCZ@#mbZwwpdUr;  ..            </tspan>
+<tspan x="25" y="90">QdM@@@@@@@@W#Mp#@WWpMWO1  ..          </tspan>
+<tspan x="25" y="110">#@@@@@#@@@@#@#@@p0kM#@@@Q;            </tspan>
+<tspan x="25" y="130">@@@@@@@@@@@@@@@@#qdM@@@@@Mr;          </tspan>
+<tspan x="25" y="150">@@@@@@@kCUCZbpkbbdW@@@@@@@@|.         </tspan>
+<tspan x="25" y="170">@@WpbZUtilI1|//tjuJwkM#@@@@           </tspan>
+<tspan x="25" y="190">@pUrj/!;&#x27;  .(tf;;I1/fxzQm@L,.         </tspan>
+<tspan x="25" y="210">#Udw0OZZ0LXfjXJ/jvYCOLQOZx            </tspan>
+<tspan x="25" y="230">XUwbdQCZM@WmnI1Z@@#kqbW@#,.           </tspan>
+<tspan x="25" y="250">xfjx0qqOJUvx1.IrQ0ZdkmWq0x.           </tspan>
+<tspan x="25" y="270">n(I&#x27;&#x27;;lI;:l!l&#x27;It|!|rvnf||t.           </tspan>
+<tspan x="25" y="290">vt!,.  :I1l/I.;x!(,. &#x27;;!|1.           </tspan>
+<tspan x="25" y="310">ZYu/!1|(lfwkwQdkQtlii!/uQ:.     .&#x27;.  .</tspan>
+<tspan x="25" y="330">urUzxrQLQw@@@@@@@YYCXYOp@.       ,    </tspan>
+<tspan x="25" y="350"> UdbJu#bpMbbwwbpM@#@UdM@n.      &#x27;.&#x27;&#x27;&#x27;,</tspan>
+<tspan x="25" y="370">..q@mQw(/xCJYJCOCUnOb#@r        CLLLLL</tspan>
+<tspan x="25" y="390">../b@M#Y(1xvOL0Orxzm@#j ..      &#x27;&#x27;....</tspan>
+<tspan x="25" y="410">  t0k@@@Oufl!i(xYQW@@ZIi   ...        </tspan>
+<tspan x="25" y="430">fOppQOm@@@m0LOb#@@@#MbM@Z(    .       </tspan>
+<tspan x="25" y="450">M@@pCYUwpM@@@@@@WMkOJ@@@@@dx1I ..     </tspan>
+<tspan x="25" y="470">YbWkYzvzYJLQ0wqZOQXuZx@@@@m@pJ.  .....</tspan>
+<tspan x="25" y="490">0@@mvfrxxnnnvzvunuYM@Z@@@@@#@@dv:     </tspan>
+<tspan x="25" y="510">@@@@MQvt1(111(txCd@@@@@@@@@@@@@@Wwjt//</tspan>
+<tspan x="25" y="530">@@@@@@@qj;::tQp@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 </text>
 <!-- Right Column: Info starts at x=430, comfortably fitting all 74 chars inside 1200px -->
 <text x="430" y="30" fill="#c9d1d9">

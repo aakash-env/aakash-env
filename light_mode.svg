@@ -18,31 +18,31 @@ text, tspan {white-space: pre;}
 <rect width="1200" height="640" fill="#f6f8fa" rx="15"/>
 <!-- Left Column: Art starts at x=25 -->
 <text x="25" y="50" class="art">
-<tspan x="25" y="50">             g@M%@%%@N%Nw,,           </tspan>
-<tspan x="25" y="70">         ,M*`||*%gNM=]mM%g||%N,       </tspan>
-<tspan x="25" y="90">       p!`` &#x27;! |```&#x27;&#x27;&#x27;|||jhlj%w       </tspan>
-<tspan x="25" y="110">     ,@L `, ,,      &#x27;&#x27;!`|j%M]%M       </tspan>
-<tspan x="25" y="130">    ]j&#x27;` .,wp@pw,   ` .  &#x27;&#x27;&#x27;&#x27;|%Wg     </tspan>
-<tspan x="25" y="150">   /{[||]@@@@@@@@pp.         |||||    </tspan>
-<tspan x="25" y="170">&#x27;`  &#x27;]@@@@@@@@@@@@@p      , , &#x27;&#x27;&#x27;` `  </tspan>
-<tspan x="25" y="190"> , :]%%@@@@@%%%%%k%h    &#x27;*||mkr      *</tspan>
-<tspan x="25" y="210">    j%M`        |jkk&#x27;    ~nrn=|i   ;` </tspan>
-<tspan x="25" y="230">   ! jrr*^`               `&quot;! L&#x27;&#x27;:!   </tspan>
-<tspan x="25" y="250">   j lp;,.   ,/ @@   ,;\nmy &quot;  ,~     </tspan>
-<tspan x="25" y="270"> i r @@@@mmHM @@@ `^*****M*,p ;,      </tspan>
-<tspan x="25" y="290"> | ]@@@HHH]g@M%%%%H,jmgpmb%  j        </tspan>
-<tspan x="25" y="310"> ;;%%%%%k%@[,.n|;.j%%k|%k%%&#x27;,[        </tspan>
-<tspan x="25" y="330"> H|%%k%%%j%k||,;;j;!!&#x27;|%ij}]@         </tspan>
-<tspan x="25" y="350"> &quot;djjmkL,&quot;]][,,,wwxw;|#kjk`           </tspan>
-<tspan x="25" y="370">  %;%km%%%%M%M|%%jkkii|||[            </tspan>
-<tspan x="25" y="390">    kjj%%kkkl!||||||||j|||&quot;           </tspan>
-<tspan x="25" y="410">     |jm%H@@@b%%kkmk%i|!,[            </tspan>
-<tspan x="25" y="430">     @p|j%%%%jkk|||j*&#x27;`;j[            </tspan>
-<tspan x="25" y="450">    ]@@@g|&#x27;&#x27;&#x27;```&#x27;    ` ,,;j%k         </tspan>
-<tspan x="25" y="470">     @@@@@mgmp;,,,,:;jj%%k%           </tspan>
-<tspan x="25" y="490">   @@@@@@@@@@%%kgki!|jjjj%k%@ .       </tspan>
-<tspan x="25" y="510"> . ^[&#x27;&#x27; %@@@@HH%b%k{illljkjj%%%% ; `,.</tspan>
-<tspan x="25" y="530">=[&#x27; ` . %HH%%%%H@gkilljjj%kk%&quot;.   `&#x27;i </tspan>
+<tspan x="25" y="50">                                      </tspan>
+<tspan x="25" y="70">   ,,.                                </tspan>
+<tspan x="25" y="90">  ,g%@@%w,                            </tspan>
+<tspan x="25" y="110">  &#x27;%%@@@@@@%w,,                       </tspan>
+<tspan x="25" y="130">    &#x27;%@@@@@@@@@%ww,,                  </tspan>
+<tspan x="25" y="150">      &#x27;%@@@@@@@@@@@@@%ww,  |||||||||  </tspan>
+<tspan x="25" y="170">        &#x27;%@@@@@@@@@@@@@@@@%w ||!||||  </tspan>
+<tspan x="25" y="190">           &#x27;%@@@@@@@@@@@@@@@@@%|||||  </tspan>
+<tspan x="25" y="210">  ,,..---~    &#x27;#@@@@@@@@@@@@@@@@%|||  </tspan>
+<tspan x="25" y="230">  &#x27;~~~~~----,,.  &#x27;#@@@@@@@@@@@@@@@@`  </tspan>
+<tspan x="25" y="250">  ,g@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@p   </tspan>
+<tspan x="25" y="270"> /@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@p </tspan>
+<tspan x="25" y="290"> `*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*&#x27;</tspan>
+<tspan x="25" y="310">  /&#x27;     &#x27;\_   /@@@@@@@@@@@@\     _/&#x27; </tspan>
+<tspan x="25" y="330"> /          &#x27;\|@@@[**==**]@@@|  _/&#x27;   </tspan>
+<tspan x="25" y="350"> \_           |%#*~oo..oo~*#%| /&#x27;     </tspan>
+<tspan x="25" y="370">   &#x27;\_         \*%#[**==**]#%/        </tspan>
+<tspan x="25" y="390">     &#x27;\_        `&quot;*~~~~*&quot;&#x27;   _/&#x27;      </tspan>
+<tspan x="25" y="410">       &#x27;~--,,..           ..,,--~&#x27;    </tspan>
+<tspan x="25" y="430">          &#x27;--..___________..--&#x27;       </tspan>
+<tspan x="25" y="450">            || | |         || | |     </tspan>
+<tspan x="25" y="470">            || | |         || | |     </tspan>
+<tspan x="25" y="490">             | | |          | | |     </tspan>
+<tspan x="25" y="510">                                      </tspan>
+<tspan x="25" y="530">                                      </tspan>
 </text>
 <!-- Right Column: Info starts at x=430, comfortably fitting all 74 chars inside 1200px -->
 <text x="430" y="30" fill="#24292f">
